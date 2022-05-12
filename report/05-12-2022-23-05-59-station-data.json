@@ -1,0 +1,376 @@
+[
+    {
+        "id": "11200020",
+        "routines": "start",
+        "route_name": "T-2",
+        "stations": [
+            {
+                "station": "Ботаник",
+                "long": 107.00088,
+                "lat": 47.91286,
+                "index": 1,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Хууль сахиулах их сургууль",
+                "long": 106.99567,
+                "lat": 47.9131,
+                "index": 2,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Шөнийн дэлгүүр",
+                "long": 106.98788,
+                "lat": 47.91269,
+                "index": 3,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Чулуун овоо",
+                "long": 106.98015,
+                "lat": 47.9123,
+                "index": 4,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Икс апартмент",
+                "long": 106.97501,
+                "lat": 47.91446,
+                "index": 5,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Офицеруудын ордон",
+                "long": 106.97022,
+                "lat": 47.91616,
+                "index": 6,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Баянзүрх дүүрэг",
+                "long": 106.96472,
+                "lat": 47.91662,
+                "index": 7,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Монгол кино үйлдвэр",
+                "long": 106.95984,
+                "lat": 47.91705,
+                "index": 8,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Жуковын музей",
+                "long": 106.94882,
+                "lat": 47.91804,
+                "index": 9,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Зүүн 4 зам",
+                "long": 106.94169,
+                "lat": 47.919,
+                "index": 10,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Хөдөлмөрийн яам",
+                "long": 106.93232,
+                "lat": 47.91849,
+                "index": 11,
+                "bus_exists": "N"
+            },
+            {
+                "station": "МУБИС",
+                "long": 106.92596,
+                "lat": 47.91811,
+                "index": 12,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Мөнгөн завьяа",
+                "long": 106.90946,
+                "lat": 47.91655,
+                "index": 13,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Энхтайван найрамдлын ордон",
+                "long": 106.90221,
+                "lat": 47.91592,
+                "index": 14,
+                "bus_exists": "Y"
+            },
+            {
+                "station": "Баруун 4 зам",
+                "long": 106.89281,
+                "lat": 47.91517,
+                "index": 15,
+                "bus_exists": "N"
+            },
+            {
+                "station": "ТБД андууд",
+                "long": 106.8863,
+                "lat": 47.9149,
+                "index": 16,
+                "bus_exists": "N"
+            },
+            {
+                "station": "25-р эмийн сан",
+                "long": 106.87856,
+                "lat": 47.91456,
+                "index": 17,
+                "bus_exists": "N"
+            },
+            {
+                "station": "10-р хороолол",
+                "long": 106.86697,
+                "lat": 47.91392,
+                "index": 18,
+                "bus_exists": "N"
+            },
+            {
+                "station": "3-р эмнэлэг",
+                "long": 106.85913,
+                "lat": 47.91331,
+                "index": 19,
+                "bus_exists": "Y"
+            },
+            {
+                "station": "Саппоро",
+                "long": 106.85172,
+                "lat": 47.9128,
+                "index": 20,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Цамбагарав",
+                "long": 106.8453,
+                "lat": 47.91235,
+                "index": 21,
+                "bus_exists": "N"
+            },
+            {
+                "station": "19-р байр",
+                "long": 106.83945,
+                "lat": 47.9119,
+                "index": 22,
+                "bus_exists": "N"
+            },
+            {
+                "station": "32-р байр",
+                "long": 106.83255,
+                "lat": 47.91136,
+                "index": 23,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Та Чи",
+                "long": 106.824,
+                "lat": 47.9107,
+                "index": 24,
+                "bus_exists": "N"
+            },
+            {
+                "station": "5 Шар",
+                "long": 106.81549,
+                "lat": 47.91006,
+                "index": 25,
+                "bus_exists": "N"
+            },
+            {
+                "station": "5 Шар",
+                "long": 106.81484,
+                "lat": 47.90965,
+                "index": 26,
+                "bus_exists": "N"
+            }
+        ]
+    },
+    {
+        "id": "11200020",
+        "routines": "end",
+        "route_name": "T-2",
+        "stations": [
+            {
+                "station": "5 Шар",
+                "long": 106.81484,
+                "lat": 47.90965,
+                "index": 26,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Монгол хюндэй киа компани",
+                "long": 106.82659,
+                "lat": 47.91061,
+                "index": 27,
+                "bus_exists": "N"
+            },
+            {
+                "station": "32-р байр",
+                "long": 106.83359,
+                "lat": 47.91113,
+                "index": 28,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Хар хорин",
+                "long": 106.84054,
+                "lat": 47.91166,
+                "index": 29,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Цамбагарав",
+                "long": 106.84736,
+                "lat": 47.9122,
+                "index": 30,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Саппоро",
+                "long": 106.85283,
+                "lat": 47.91256,
+                "index": 31,
+                "bus_exists": "N"
+            },
+            {
+                "station": "3-р эмнэлэг",
+                "long": 106.86022,
+                "lat": 47.91305,
+                "index": 32,
+                "bus_exists": "N"
+            },
+            {
+                "station": "10-р хороолол",
+                "long": 106.86824,
+                "lat": 47.91361,
+                "index": 33,
+                "bus_exists": "N"
+            },
+            {
+                "station": "25-р Эмийн сан",
+                "long": 106.87949,
+                "lat": 47.91437,
+                "index": 34,
+                "bus_exists": "N"
+            },
+            {
+                "station": "ТБД андууд",
+                "long": 106.88725,
+                "lat": 47.91471,
+                "index": 35,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Баруун 4 зам",
+                "long": 106.89752,
+                "lat": 47.91535,
+                "index": 36,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Улсын Их Дэлгүүр",
+                "long": 106.90354,
+                "lat": 47.91585,
+                "index": 37,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Сүхбаатарын талбай",
+                "long": 106.9179,
+                "lat": 47.91675,
+                "index": 38,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Өргөө амаржих газар",
+                "long": 106.92632,
+                "lat": 47.918,
+                "index": 39,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Бөхийн өргөө",
+                "long": 106.93362,
+                "lat": 47.91839,
+                "index": 40,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Зүүн 4 зам",
+                "long": 106.94104,
+                "lat": 47.91885,
+                "index": 41,
+                "bus_exists": "Y"
+            },
+            {
+                "station": "Жуковын музей",
+                "long": 106.95157,
+                "lat": 47.91739,
+                "index": 42,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Монгол кино үйлдвэр",
+                "long": 106.9605,
+                "lat": 47.91662,
+                "index": 43,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Баянзүрх дүүрэг",
+                "long": 106.96512,
+                "lat": 47.91621,
+                "index": 44,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Офицеруудын ордон",
+                "long": 106.97028,
+                "lat": 47.9158,
+                "index": 45,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Эм Ай Ю дээд сургууль",
+                "long": 106.97512,
+                "lat": 47.9141,
+                "index": 46,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Чулуун овоо",
+                "long": 106.98419,
+                "lat": 47.91229,
+                "index": 47,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Шөнийн дэлгүүр",
+                "long": 106.98935,
+                "lat": 47.91256,
+                "index": 48,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Хууль сахиулах их сургууль",
+                "long": 106.99747,
+                "lat": 47.91299,
+                "index": 49,
+                "bus_exists": "N"
+            },
+            {
+                "station": "Ботаник",
+                "long": 107.0009,
+                "lat": 47.91285,
+                "index": 50,
+                "bus_exists": "N"
+            }
+        ]
+    },
+    {
+        "bus_cound": 3
+    }
+]

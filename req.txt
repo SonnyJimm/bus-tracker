@@ -1,0 +1,4 @@
+im lazy so gotta do this by hand
+pip install APScheduler
+pip install Flask
+pip install requests
